@@ -88,7 +88,7 @@ The repository contains the SQL scripts and Python implementation used to prepar
 
 Aspiring Data Scientist | Data Analytics | Machine Learning
 
-GitHub: [Imani-hub-pixel]()
+GitHub: [Imani-hub-pixel](https://github.com/Imani-hub-pixel/Movie-Recommendation-System-SQL-Python)
 
 ---
 
